@@ -1,11 +1,11 @@
 ### Controle de Estoque com Laravel :
 ===============
 
-### . Controlar entrade saída de produtos no estoque.
+. Controlar entrade saída de produtos no estoque.
 
-### . Gerenciamento do caixa
+. Gerenciamento do caixa
 
-### . Gerenciar dados:
+. Gerenciar dados:
 
     . Produtos
     . Categorias
